@@ -1,0 +1,49 @@
+Admin's Area Help
+
+
+Reset Password:
+	This button when clicked will pull up a panel on the right side of the 
+	screen. This panel will ask you what you want your new password to be 
+	and to confirm the new password. This will then set the password for 
+	all future uses.
+	
+Reset Quiz:
+	After a quiz has been used, the user's answers are saved. When a user 
+	answers incorrectly 10 times or has answered correctly, they cannot 
+	return to the question. If they try to go back to the question, it 
+	will just bring up the answer page of the question. Reseting the quiz 
+	allows the quiz to be taken again. This means all the user's answers 
+	are erased and clicking on a question will bring them to the question 
+	page instead of the answer page.
+
+Set Quiz Title:
+	This will set the window's title when the quiz window is opened.
+	
+Add Question:
+	This will bring up a panel asking for a new question and a new answer
+	to go with the question. When you have finished click the new button
+	'Add Question' and this will add the question to the quiz.
+	
+Remove Question:
+	This will show the list of questions with numbers attatched to them.
+	To remove a question you type in the number and click the remove
+	button.
+	
+Clear Questions:
+	This will clear all of the questions in the quiz.
+	
+View Questions:
+	This button will show all of the questions and their answers with
+	numbers attatched.
+	
+Change Answer:
+	This button, when clicked, will bring up the list of questions with
+	numbers attatched to them. It will then ask for a number of the
+	question in which you would like to change the answer to, and it
+	will ask for the new answer you want for the question. When you are
+	done you should then click the 'Make Change' button and it will
+	change the answer to the question.
+	
+Back to Main Window:
+	This will take you back to the main window.
+
